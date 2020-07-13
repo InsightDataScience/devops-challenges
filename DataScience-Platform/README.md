@@ -6,8 +6,10 @@ Your task: is to design and implement a system that address the challenges Data 
 - Two availability regions 
 - Basic infra & model monitoring 
 - Leverage CI/CD to test and implemtent your code
+- You should be able to load and run a test data model
+- **NO KUBEFLOW**
 
-Finally you will give a 10 minute presentation about your solution and the problems it solves, followed by a 5 minute Q&A.
+Finally you will give a 10 minute demo/presentation about your solution and the problems it solves, followed by a 5 minute Q&A. Architecture diagram is a must.
 
 This is intentionally vauge, you will be assessed on your decision making and systems design. **The winning team will be imortialized in this repo**.
 
