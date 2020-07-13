@@ -13,4 +13,4 @@ This is intentionally vauge, you will be assessed on your decision making and sy
 
 
 Winning Teams:
-20B:
+- 20B:
