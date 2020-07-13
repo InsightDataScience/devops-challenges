@@ -1,4 +1,4 @@
-#Data Science Platform
+Data Science Platform
 -----
 Problem: Data Science teams are continuously building and traning models, this quick and constant iteration has created stress on the infrastructure. There are many problems with the exisiting system: it does not scale to multiple regions easily, low observability in the system/model, poor model management, unused compute resources, and many more issues. 
 
