@@ -10,7 +10,7 @@ As a team you will work together on 1 github repo to build CI/CD pipeline for Rc
   * Builds a new docker image [[1]](https://medium.com/@gustavo.guss/jenkins-building-docker-image-and-sending-to-registry-64b84ea45ee9)
 2. Configure ArgoCD to deploy the docker image to an EKS cluster. [[1]](https://levelup.gitconnected.com/gitops-in-kubernetes-with-gitlab-ci-and-argocd-9e20b5d3b55b)
 3. After ArgoCD deploys the container, scale up the EKS cluster to replicate a 100 node testnet. 
-4. Screenshot the cluster running the testnet & terminal output of the testnet running![[1]](https://www.jeffgeerling.com/blog/2020/10000-kubernetes-pods-10000-subscribers)
+4. Screenshot the cluster running the testnet & terminal output of the testnet running [[1]](https://www.jeffgeerling.com/blog/2020/10000-kubernetes-pods-10000-subscribers)
 5. Build a presentation that covers CI/CD pipeline for a large EKS cluster.
   * 1 slide - Introduction / Problem set up
   * 1 slide - Pros/Cons of Jenkins 
